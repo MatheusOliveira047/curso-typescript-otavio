@@ -14,3 +14,5 @@ console.log(Cores)
 function escolhaACor(cor: Cores): void {
   console.log(Cores[cor])
 }
+
+escolhaACor(Cores.AMARELO)
